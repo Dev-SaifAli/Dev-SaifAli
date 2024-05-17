@@ -1,3 +1,5 @@
+![Simple Work LinkedIn Banner in Beige Black Photocentric Style](https://github.com/saifaliTheDev/saifaliTheDev/assets/143219742/8ad0a727-b3e8-4eb8-a9c5-2bb62718e77c)
+
 <h1 align="center">AOA 👋, I'm Saif Ali</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
 
