@@ -19,7 +19,7 @@
 ```txt
 🎓 CS Undergrad from Pakistan  
 💻 I love building clean and responsive frontend apps  
-🌱 Currently learning React, Tailwind CSS & JS advanced topics  
+🌱 Currently learning Javascript 
 📬 Reach me: saifu100@outlook.com  
 ```
 
