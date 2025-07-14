@@ -55,8 +55,7 @@
 ## 🔥 GitHub Streaks
 
 <p align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com/?user=Saif ALI&theme=tokyonight" alt="GitHub Streak" />
+  [![GitHub Streak](https://streak-stats.demolab.com/?user=Saif ALI)](https://git.io/streak-stats)
   </a>
 </p>
 
