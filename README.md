@@ -54,7 +54,7 @@
 
 ## 🔥 GitHub Streaks
 
-<img align="center" src="https://camo.githubusercontent.com" alt="Dev-SaifAliDev-SaifAli" data-canonical-src=" https://github-readme-streak-stats.herokuapp.com/?user=Dev-SaifAli&amp;" style="max-width: 100%;">
+<img align="center" src="https://camo.githubusercontent.com" alt="Dev-SaifAli" data-canonical-src="https://github-readme-streak-stats.herokuapp.com/?user=Dev-SaifAli &amp;" style="max-width: 100%;">
 
 
 ---
