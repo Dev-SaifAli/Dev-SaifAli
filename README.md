@@ -48,6 +48,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Dev-SaifAli&show_icons=true&theme=tokyonight" alt="Stats" width="49%"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-SaifAli&layout=compact&theme=tokyonight" alt="Top Langs" width="49%"/>
+  <img src= "https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-SaifAli">
 </p>
 
 ---
