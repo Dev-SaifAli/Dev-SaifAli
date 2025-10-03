@@ -14,67 +14,27 @@
 
 ---
 
-## 👨‍💻 About Me
+# 💫 About Me:
+🔭 I’m currently working on Javascript Projects<br>👯 I’m looking to collaborate on Projects<br>🌱 I’m currently learning Advanced JS Concepts<br>⚡ Fun fact I believe in "Learn by Building"
 
-```txt
-🎓 CS Undergrad from Pakistan  
-💻 I love building clean and responsive frontend apps  
-🌱 Currently learning Javascript 
-📬 Reach me: saifu100@outlook.com  
-```
 
----
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/saif-ali-b3682a374/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:saifu100@outlook.com) 
 
-## 🔗 Connect With Me
+# 💻 Tech Stack:
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Dev-SaifAli&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Dev-SaifAli&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-SaifAli&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/saif-ali-54aabb200/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-</p>
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
----
-
-## 🛠️ Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,react,figma,github" />
-</p>
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Dev-SaifAli&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=Dev-SaifAli&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Dev-SaifAli&show_icons=true&theme=tokyonight" alt="Stats" width="49%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-SaifAli&layout=compact&theme=tokyonight" alt="Top Langs" width="49%"/>
-</p>
-
----
-
-## 🔥 GitHub Streaks
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dev-SaifAli&theme=tokyonight" alt="GitHub Streak" />
-</p>
-
----
-
-## ⚡ Fun Fact
-
-> 🧠 I believe in **"Learn by Building"**  
-> I never stop experimenting with ideas and turning them into functional projects!
-
----
-
-## 🧭 What’s Next?
-
-- ✅ Master React + Hooks  
-- ✅ Build a personal portfolio  
-- 🔄 Start contributing to open source  
-- 🧪 Explore Firebase + Backend APIs
-
----
-
-## 🚀 Let’s Build Something Cool!
-
-> 👋 *Thanks for visiting! Connect with me or explore my projects to know more.*
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
