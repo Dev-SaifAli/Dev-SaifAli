@@ -1,6 +1,6 @@
 <!-- Hero Banner -->
 <p align="center">
-  <img src="https://github.com/Dev-SaifAli/Dev-SaifAli/assets/143219742/8ad0a727-b3e8-4eb8-a9c5-2bb62718e77c" alt="Banner" />
+  <img src="banner.png" alt="Banner" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Saif Ali</h1>
