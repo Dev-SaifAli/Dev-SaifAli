@@ -1,40 +1,123 @@
-<!-- Hero Banner -->
-<p align="center">
-  <img src="banner.png" alt="Banner" />
-</p>
+# Hey, I'm Saif Ali 👋
 
-<h1 align="center">Hi 👋, I'm Saif Ali</h1>
-<h3 align="center">Frontend Developer | JavaScript Enthusiast | Creative Thinker 🚀</h3>
+### Full-Stack Engineer · Software Architecture · Agentic AI
 
-<p align="center">
-  <a href="https://github.com/Dev-SaifAli">
-    <img src="https://komarev.com/ghpvc/?username=Dev-SaifAli&style=flat-square&color=blue" alt="Profile Views"/>
-  </a>
-</p>
+**Building intelligent, scalable applications — from business requirements to production systems.**
+
+I’m a full-stack engineer focused on turning complex business problems into well-structured, maintainable software.
+
+My work spans **frontend engineering, backend systems, software architecture, enterprise workflows, and AI-assisted development**. I enjoy understanding how businesses operate, translating requirements into technical designs, and building applications that solve real operational problems.
+
+I use AI coding agents as part of my engineering workflow — combining their speed with architectural reasoning, code review, and validation.
 
 ---
 
-# 💫 About Me:
-🔭 I’m currently working on Javascript Projects<br>👯 I’m looking to collaborate on Projects<br>🌱 I’m currently learning Advanced JS Concepts<br>⚡ Fun fact I believe in "Learn by Building"
+### ⚡ What I Do
 
+- **Full-Stack Engineering** — Design and develop responsive, maintainable applications across frontend and backend systems.
+- **Software Architecture** — Translate business requirements into HLD, LLD, database models, API contracts, and modular application structures.
+- **Enterprise Applications** — Build CRM, ERP, and transportation management workflows around real business operations.
+- **Agentic AI Development** — Integrate AI coding agents into planning, implementation, debugging, testing, and review.
+- **DevOps & Delivery** — Work with CI/CD pipelines, Linux servers, deployment automation, and production troubleshooting.
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saif-ali-b3682a374/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:saifu100@outlook.com) 
+### 🛠️ Tech Stack
 
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Dev-SaifAli&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Dev-SaifAli&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-SaifAli&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+**Frontend & UI**
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-20232A?style=flat-square&logo=nextdotjs&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-20232A?style=flat-square&logo=vuedotjs&logoColor=4FC08D)
+![TypeScript](https://img.shields.io/badge/TypeScript-20232A?style=flat-square&logo=typescript&logoColor=3178C6)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-20232A?style=flat-square&logo=tailwindcss&logoColor=06B6D4)
+![shadcn/ui](https://img.shields.io/badge/shadcn/ui-20232A?style=flat-square&logo=shadcnui&logoColor=white)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Dev-SaifAli&limit=5&theme=dark&combine_all_yearly_contributions=true)
+**Backend & Data**
+
+![Node.js](https://img.shields.io/badge/Node.js-20232A?style=flat-square&logo=nodedotjs&logoColor=5FA04E)
+![NestJS](https://img.shields.io/badge/NestJS-20232A?style=flat-square&logo=nestjs&logoColor=E0234E)
+![Python](https://img.shields.io/badge/Python-20232A?style=flat-square&logo=python&logoColor=3776AB)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-20232A?style=flat-square&logo=postgresql&logoColor=4169E1)
+![Frappe](https://img.shields.io/badge/Frappe_Framework-20232A?style=flat-square)
+![ERPNext](https://img.shields.io/badge/ERPNext-20232A?style=flat-square)
+
+**Infrastructure & Tools**
+
+![Git](https://img.shields.io/badge/Git-20232A?style=flat-square&logo=git&logoColor=F05032)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-20232A?style=flat-square&logo=githubactions&logoColor=2088FF)
+![Linux](https://img.shields.io/badge/Linux-20232A?style=flat-square&logo=linux&logoColor=FCC624)
+![Nginx](https://img.shields.io/badge/Nginx-20232A?style=flat-square&logo=nginx&logoColor=009639)
+![Docker](https://img.shields.io/badge/Docker-20232A?style=flat-square&logo=docker&logoColor=2496ED)
+
+### 🏗️ Engineering Experience
+
+#### 🚚 Transportation Management System
+
+*Enterprise Logistics · Frappe/ERPNext · Vue 3 · TypeScript*
+
+Working on an enterprise transportation management solution connecting commercial and operational workflows.
+
+- Designed workflows spanning quotations, sales orders, transport jobs, trips, and billing.
+- Built reusable data-table architecture with server-side pagination, sorting, and filtering.
+- Implemented frontend state management patterns for request deduplication and race-condition protection.
+- Worked on production deployment automation, GitHub Actions, and Linux infrastructure.
+
+#### 🏥 Medical Equipment Sales CRM
+
+*Enterprise CRM · Next.js · NestJS · PostgreSQL · Clerk*
+
+Designing a modular, domain-driven CRM platform for medical equipment sales operations.
+
+- Analyzing business requirements and translating them into system architecture.
+- Designing role-based authorization, customer ownership, and quotation approval workflows.
+- Modeling pricing, inventory, sales orders, and ERP integration boundaries.
+- Exploring AI-assisted implementation workflows with architectural validation.
+
+*Some enterprise projects are private or under active development. Technical details are shared where permitted.*
+
+### 🧠 Engineering Mindset
+
+```text
+Understand the Business
+        ↓
+Define Requirements
+        ↓
+Design the System
+        ↓
+Build Incrementally
+        ↓
+Test & Validate
+        ↓
+Deploy & Improve
+```
+
+I believe good engineering is about more than choosing frameworks.
+
+It's about understanding domain rules, making thoughtful architectural decisions, maintaining clear system boundaries, and delivering reliable software.
+
+**AI accelerates the workflow. Engineering judgment drives the decisions.**
+
+### 🔭 Current Focus
+
+- Building enterprise-grade full-stack applications.
+- Improving modular backend and database architecture.
+- Exploring agentic AI workflows for software engineering.
+- Strengthening CI/CD, observability, and production reliability.
+- Creating reusable UI patterns and scalable frontend architectures.
+
+### 📊 GitHub Activity
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dev-SaifAli&show_icons=true&hide_border=true&theme=github_dark)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-SaifAli&layout=compact&hide_border=true&theme=github_dark)
+
+### 🤝 Let's Connect
+
+I enjoy connecting with developers, architects, and teams building meaningful software.
+
+**Open to conversations about full-stack engineering, enterprise systems, software architecture, and agentic AI.**
+
+[LinkedIn](https://www.linkedin.com/in/saif-ali-dev/)  · [Email](mailto:devsaifali.solutions@gmail.com)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Dev-SaifAli&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+*Building systems, not just interfaces.*
